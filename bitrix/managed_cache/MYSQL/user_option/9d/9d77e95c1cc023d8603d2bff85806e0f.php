@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001632433004';
+$dateexpire = '001632436604';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:6:"recent";a:5:{i:0;a:4:{s:3:"url";s:112:"/bitrix/admin/fileman_admin.php?lang=ru&path=%2Fnovostnoy&site=s1&logical=Y&back_url_pub=%2Fcatalog%2Fdresses%2F";s:4:"text";s:18:"Новостной";s:5:"title";s:31:"Новостной (/novostnoy)";s:4:"icon";s:9:"undefined";}i:1;a:4:{s:3:"url";s:103:"/bitrix/admin/fileman_admin.php?lang=ru&site=s1&logical=Y&path=%2F&back_url_pub=%2Fcatalog%2Fdresses%2F";s:4:"text";s:66:"Интернет-магазин (Сайт по умолчанию)";s:5:"title";s:97:"Структура сайта: Интернет-магазин (Сайт по умолчанию)";s:4:"icon";s:9:"undefined";}i:2;a:4:{s:3:"url";s:63:"/bitrix/admin/landing_site.php?lang=ru&site=s1&back_url_pub=%2F";s:4:"text";s:66:"Интернет-магазин (Сайт по умолчанию)";s:5:"title";s:0:"";s:4:"icon";s:9:"undefined";}i:3;a:4:{s:3:"url";s:97:"/bitrix/admin/iblock_list_admin.php?IBLOCK_ID=4&type=news&lang=ru&apply_filter=Y&back_url_pub=%2F";s:4:"text";s:19:"Новый блок";s:5:"title";s:19:"Новый блок";s:4:"icon";s:9:"undefined";}i:4;a:4:{s:3:"url";s:73:"/bitrix/admin/iblock_admin.php?type=news&lang=ru&admin=N&back_url_pub=%2F";s:4:"text";s:14:"Новости";s:5:"title";s:14:"Новости";s:4:"icon";s:9:"undefined";}}}}';
+return true;
+?>
